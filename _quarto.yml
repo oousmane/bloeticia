@@ -8,9 +8,10 @@ website:
     right:
       - href: index.qmd
         text: Accueil
-      - href: cv-bloeticia.pdf
+      - href: cv_bloeticia.pdf
         text: Curriculum Vitae
-
+      - href: blog.qmd
+        text: Blog
 format:
   html:
     theme: cosmo
